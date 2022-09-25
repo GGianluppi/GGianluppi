@@ -1,6 +1,11 @@
+<p align="center">
+
 # Hi, I am Guilherme👋
 
-About me:
+</p>
+
+
+**About me:**
 
 * 
 *

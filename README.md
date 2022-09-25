@@ -7,7 +7,10 @@
 *
 *
 
-![image]({[BadgeURLHere](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)})
+
+ [![General badge]((https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
+
 
 
 [![LG Badge](h[ttps://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](https://www.linkedin.com/in/braydon-coyer/)

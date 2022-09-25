@@ -1,4 +1,11 @@
-#### Hi, I am Guilherme👋
+# Hi, I am Guilherme👋
+
+About me:
+
+* 
+*
+*
+*
 
 
 

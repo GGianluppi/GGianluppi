@@ -7,4 +7,4 @@ xxxx
 Want to know more about me? Check out my portfolio.
 
 
-![Gmail]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)

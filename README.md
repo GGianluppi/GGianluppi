@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Guilherme  👋</h1>
+Hi, I am Guilherme  👋
 
 * I have a degree in Industrial Eletronics;
 * I'm currently self-taught in Computer Science at OSSU;

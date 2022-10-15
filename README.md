@@ -5,6 +5,8 @@
 <a href="https://www.linkedin.com/in/guilherme-gianluppi-moura-264b43207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+**About me**
+
 * I have a degree in Industrial Eletronics;
 * I'm currently self-taught in Computer Science at OSSU;
 * I'm currently improving my Data Structures and Algorithms skills.

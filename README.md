@@ -6,7 +6,7 @@
 </div>
 
 
-**About me**
+### About me
 
 * I have a degree in Industrial Eletronics;
 * I'm currently self-taught in Computer Science at OSSU;

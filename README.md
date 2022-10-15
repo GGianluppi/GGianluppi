@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Guilherme  👋</h1>
 
 xxxxxxxX
-# Talking about Personal Stuffs:
+* **About me:**
 
 * I have a degree in Industrial Eletronics;
 * I'm currently self-taught in Computer Science at OSSU;

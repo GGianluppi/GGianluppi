@@ -11,7 +11,7 @@
 
 * I have a degree in Industrial Eletronics;
 * I'm currently self-taught in Computer Science at [OSSU](https://github.com/ossu/computer-science);
-* I'm currently improving my Data Structures and Algorithms skills.
+* I'm currently studying Cybersecurity.
 
 
 

@@ -9,7 +9,7 @@
 
 ### About me
 
-* I have a degree in Industrial Eletronics;
+* I have a degree in Industrial Electronics;
 * I'm currently self-taught in Computer Science at [OSSU](https://github.com/ossu/computer-science);
 * I'm currently studying Cybersecurity.
 

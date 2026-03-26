@@ -10,8 +10,7 @@
 
 ### About me
 
-* I'm currently self-taught in Computer Science at [OSSU](https://github.com/ossu/computer-science); 
-* I'm currently studying Cybersecurity.
+* Currently working at KNDS (Krauss-Maffei Wegmann + Nexter Defense Systems)
 
 
 
